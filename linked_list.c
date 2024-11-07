@@ -210,7 +210,6 @@ int list_count_nodes(Node** head) {
     }
     return count;
 }
-
 // Frees all nodes in the list and deinitializes the memory manager.
 // Parameters:
 // - head: Pointer to the head pointer of the linked list.
