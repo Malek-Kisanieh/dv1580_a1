@@ -4,7 +4,7 @@
 #include <string.h>
 #include <errno.h>
 
-//  samirStructure for managing a block within the memory pool
+// Structure for managing a block within the memory pool
 typedef struct MemBlock {
     size_t block_size;       // Size of the block
     int is_available;        // 1 if available, 0 if in use
