@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "memory_manager.h": "c",
+        "stdio.h": "c",
+        "TEST.C": "cpp",
+        "common_defs.h": "c"
+    }
+}
